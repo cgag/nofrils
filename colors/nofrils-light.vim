@@ -36,7 +36,6 @@ hi SignColumn term=NONE cterm=NONE ctermfg=240 ctermbg=255 gui=NONE guifg=#58585
 hi SpecialKey term=NONE cterm=NONE ctermfg=240 ctermbg=255 gui=NONE guifg=#585858 guibg=#E4E4E4
 hi StatusLineNC term=NONE cterm=NONE ctermfg=0 ctermbg=248 gui=NONE guifg=#000000 guibg=#A8A8A8
 hi VertSplit term=NONE cterm=NONE ctermfg=0 ctermbg=248 gui=NONE guifg=#000000 guibg=#A8A8A8
-hi Keyword term=NONE cterm=NONE ctermfg=248 ctermbg=NONE gui=NONE guifg=#A8A8A8 guibg=NONE
 
 " Highlighted
 hi CursorColumn term=NONE cterm=NONE ctermfg=NONE ctermbg=15 gui=NONE guifg=NONE guibg=#FFFFFF
